@@ -1,2 +1,5 @@
-# DM
-the homework of DM（2020 Spring）
+# 数据挖掘作业
+## 数据探索性分析与数据预处理
+选用数据集：
+- 1 数据集：Wine Reviews
+
